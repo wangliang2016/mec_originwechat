@@ -1,0 +1,6 @@
+{
+  "dev": {
+    "wechat":5000,
+    "wechatSSL":4001
+  }
+}
